@@ -10,7 +10,9 @@ function App() {
         justifyContent: 'center',
         alignItems: 'center',
         fontWeight: 'bold',
-        fontSize: 'x-large'
+        fontSize: 'x-large',
+        backgroundColor: '#111111',
+        color: 'white'
       }}
     >
       Hello Github from React
